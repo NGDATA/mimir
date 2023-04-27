@@ -29,6 +29,10 @@ Entries should include a reference to the Pull Request that introduced the chang
 
 ## main / unreleased
 
+## 5.8.0-lily
+
+* [FEATURE] Support monolithic deployment with the helm chart. #4832
+
 ## 5.8.0
 
 * [CHANGE] KEDA Autoscaling: Changed toPromQLLabelSelector from object to list of strings, adding support for all PromQL operators. #10945
