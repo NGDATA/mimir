@@ -27,6 +27,11 @@ Entries should be ordered as follows:
 
 Entries should include a reference to the Pull Request that introduced the change.
 
+
+## main / unreleased
+
+* [FEATURE] Support monolithic deployment with the helm chart. #4832
+
 ## 6.0.6
 
 * [CHANGE] Upgrade Mimir to [3.0.4](https://github.com/grafana/mimir/blob/release-3.0/CHANGELOG.md). #14749
